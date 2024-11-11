@@ -34,7 +34,7 @@ The purpose of this QA project is to demonstrate practical QA skills. It include
 ## Getting Started
 
 To run the tests locally, you need to have the following installed:
-1. Java or Python (specify version)
+1. JavaScript (specify version)
 2. Selenium WebDriver
 3. [Any other dependencies]
 
