@@ -8,22 +8,22 @@ To verify the functionality, validation, and security of the login form on the w
 Login page of [The Internet](https://the-internet.herokuapp.com/login)
 
 ### Test Items:
-Verification of the login page display
-Validation of username/password correctness
-Behavior testing with invalid data input
-Error message testing
+Verification of the login page display  
+Validation of username/password correctness  
+Behavior testing with invalid data input  
+Error message testing  
 
 ## 2. Scope and Boundaries
 ### Features to Be Tested:
-Correct functionality of the "Username" and "Password" fields
-Validation of the "Login" button
-Error messages for invalid data
-User redirection after successful login
-UI/UX testing (ease of use, element display)
+Correct functionality of the "Username" and "Password" fields  
+Validation of the "Login" button  
+Error messages for invalid data  
+User redirection after successful login  
+UI/UX testing (ease of use, element display)  
 
 ### Features Not to Be Tested:
-Website performance
-API testing
+Website performance  
+API testing  
 
 ## 3. Approach
 ### Testing Types:
@@ -41,18 +41,18 @@ Test the system's behavior when incorrect data is entered.
 Attempt SQL injection and XSS attacks.
 
 **Tools:**
-Manual testing for user scenarios.
-Automation: Selenium for automating test cases
+Manual testing for user scenarios.  
+Automation: Selenium for automating test cases  
 
 ## 4. Expected Risks
-Potential failures when attempting attacks such as SQL injection
-Incorrect error messages
-Insufficient client-side validation
+Potential failures when attempting attacks such as SQL injection  
+Incorrect error messages  
+Insufficient client-side validation  
 
 ## 5. Test Deliverables
-Defect report (via Jira)
-Screenshots and error logs
-Recommendations for improvement if issues are identified
+Defect report (via Jira)  
+Screenshots and error logs  
+Recommendations for improvement if issues are identified  
 
 ## 6. Metrics Used
 Percentage of test cases passed
