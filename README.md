@@ -54,9 +54,9 @@ To run automated tests, use the following command:
 
 ## Folder Structure
 
-- `/test-cases/` - Contains manual test cases in [test-cases.md](https://github.com/user-attachments/files/17704551/test-cases.md)
+- `/manual-tests/` - Contains manual test cases in [test-cases.md](https://github.com/user-attachments/files/17704551/test-cases.md)
 
-- `/automated-tests/` - Contains automated test scripts
+- `/automation-tests/` - Contains automated test scripts
 - `/reports/` - Stores test reports generated after each test run
 - `/logs/` - Contains logs and bug reports
 
